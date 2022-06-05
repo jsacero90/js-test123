@@ -1,0 +1,12 @@
+
+En el archivo index.js
+
+1 - Cree un array de numeros minimo 5;
+2 - Cree un elemento "UL" con JavaScript;
+3 - Cree elementos "LI" dimanicos dentro del "UL" recado en el numeral 2.
+4 - Inserte en el div con id app el "UL",
+
+En el archivo css
+
+1- A los Elementos lista quitar viñetas con propiedades css.
+2- Colocar color negro al fondo.
